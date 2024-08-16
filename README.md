@@ -1,6 +1,7 @@
 # SQL-Challenges
 
 A repository containing challenges done on SQL with challenges:
+
 Summer of SQL:
 - https://www.preppindata.com/
 - https://mystery.knightlab.com/
