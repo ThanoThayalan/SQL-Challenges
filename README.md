@@ -1,6 +1,6 @@
 # SQL-Challenges
 
-A repository containing challenges done on SQL with challenges:
+A repository containing challenges done on SQL:
 
 Summer of SQL:
 - https://www.preppindata.com/
